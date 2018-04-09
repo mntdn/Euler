@@ -5,7 +5,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "start": "node problem2.js"
+    "start": "node problem3.js"
   },
   "repository": {
     "type": "git",
